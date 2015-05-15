@@ -1,4 +1,5 @@
 # translator
-Translate word from internet
+Translate word from internet use google.
 
-# just test
+
+
